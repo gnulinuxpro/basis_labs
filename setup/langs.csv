@@ -1,0 +1,22 @@
+	English	Русский
+selected_lang	--> English choosen	--> Выбран русский язык
+errorNotRoot	--> For environment setup root permissions are required. Please run this script with sudo	--> Для настройки окружения требуются root права. Пожалуйста, запустите скрипт с помощью sudo
+select_lab	--> Select the lab	--> Выберите лабораторную
+selected_lab	 Selected lab:	--> Выбрана лабораторная: 
+setup	Environment setup	Настройка окружения
+cleanup	Environment cleanup	Очистка окружения
+enter	Enter environment	Вход в окружение
+enterlabset		Перейти к лабораторным
+addlabset		Добавить лабораторные
+removelabset		Удалить лабораторные
+createlabset		Создать лабораторные
+chooselabset		--> Выберите лабсет
+removelabsetyesno		Вы точно хотите удалить директорию
+yes	Yes	Да
+no	No	Нет
+mentionedlabsets		--> Список прописанных лабсетов:
+readlabseturl	--> Please enter labs git repo http url: 	--> Пожалуйста, введите HTTP URL к git репозиторию:
+downloading		Скачиваю
+nolabsets		--> Лабораторных нет, перехожу к пункту добавления лабораторных
+removeselect		--> Выберите лабсет, который хотите удалить
+menuhelp	For menu navigation please use numbers (1, 2, etc.). Press enter to see available options.	Для навигации по меню используйте числа (1, 2 и т. п.). Нажмите Enter, чтобы увидеть доступные опции
